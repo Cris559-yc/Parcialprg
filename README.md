@@ -1,7 +1,7 @@
 # Parcialprg
 Cristian Yahir Campos Aparicio, SMSS109222 
 Lindys Arely Martinez Herrera. SMSS170822
-Hicimos el codigo desde una misma computadora ya que la compañera no le corria visual en su computadora, yo hize el main y la carpeta models y ella hizo el contenido de las carpetas services y utils.
+Hicimos el codigo desde una misma computadora ya que la compañera no le corria visual en su computadora, yo hize el main y la carpeta models y ella hizo el contenido de las carpetas services y utils y respondio las preguntas.
 Preguntas
 • ¿Qué ventajas tiene en comparación con poner todo el código en
 un solo archivo o utilizar módulos?
