@@ -1,6 +1,7 @@
 # Parcialprg
 Cristian Yahir Campos Aparicio
 Lindys Arely Martinez Herrera
+
 Preguntas
 • ¿Qué ventajas tiene en comparación con poner todo el código en
 un solo archivo o utilizar módulos?
